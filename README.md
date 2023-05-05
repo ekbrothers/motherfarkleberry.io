@@ -16,7 +16,7 @@ content creators to ship their products faster.
 
 $~$
 
-## DISCLAIMER ⚠️
+## DISCLAIMER ⚠️ 
 
 The Starter Templates experience is currently only available to new users.
 
